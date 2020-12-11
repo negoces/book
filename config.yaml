@@ -1,4 +1,4 @@
-baseURL: "http://example.org/book/"
+baseURL: "https://negoces.github.io/book/"
 defaultContentLanguage: "zh-cn"
 languageCode: "zh-CN"
 title: "文档中心"
