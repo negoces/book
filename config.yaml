@@ -1,4 +1,4 @@
-baseURL: "https://negoces.github.io/book/"
+baseURL: "https://book.negoces.vercel.app/"
 defaultContentLanguage: "zh-cn"
 languageCode: "zh-CN"
 title: "文档中心"
