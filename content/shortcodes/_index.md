@@ -1,4 +1,4 @@
 ---
-title: 用法
+title: 文档语法
 bookFlatSection: true
 ---
